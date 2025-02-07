@@ -33,3 +33,9 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+# Use filename as title
+FILENAME_METADATA = '(?P<title>.*)'
+
+# Use filesystem timestamp as default date
+DEFAULT_DATE = "fs"
