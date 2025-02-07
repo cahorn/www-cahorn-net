@@ -39,3 +39,6 @@ FILENAME_METADATA = '(?P<title>.*)'
 
 # Use filesystem timestamp as default date
 DEFAULT_DATE = "fs"
+
+# Use Flex theme
+THEME = "themes/Flex"
