@@ -1,6 +1,11 @@
+# Change to True if you want document-relative URLs when developing
+RELATIVE_URLS = False
+
 AUTHOR = "Ansel Horn"
 SITENAME = "Ansel Horn"
-SITEURL = ""
+SITEURL = "" if RELATIVE_URLS else "https://www.cahorn.net"
+
+SITELOGO = SITEURL + "/images/profile.jpg"
 
 PATH = "content"
 
@@ -30,9 +35,6 @@ SOCIAL = (
 )
 
 DEFAULT_PAGINATION = 10
-
-# Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
 
 # Use filename as title
 FILENAME_METADATA = '(?P<title>.*)'
