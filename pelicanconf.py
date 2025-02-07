@@ -5,6 +5,8 @@ AUTHOR = "Ansel Horn"
 SITENAME = "Ansel Horn"
 SITEURL = "" if RELATIVE_URLS else "https://www.cahorn.net"
 
+SITETITLE = "Ansel Horn"
+SITESUBTITLE = "Polymath Aspirant"
 SITELOGO = SITEURL + "/images/profile.jpg"
 
 PATH = "content"
@@ -30,8 +32,8 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ("github", "https://github.com/cahorn"),
+    ("linkedin", "https://www.linkedin.com/in/cahorn"),
 )
 
 DEFAULT_PAGINATION = 10
