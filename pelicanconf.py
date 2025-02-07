@@ -5,6 +5,9 @@ AUTHOR = "Ansel Horn"
 SITENAME = "Ansel Horn"
 SITEURL = "" if RELATIVE_URLS else "https://www.cahorn.net"
 
+COPYRIGHT_NAME = "Colby Ansel Horn"
+COPYRIGHT_YEAR = 2025
+FAVICON = SITEURL + "/images/favicon.ico"
 SITETITLE = "Ansel Horn"
 SITESUBTITLE = "Polymath Aspirant"
 SITELOGO = SITEURL + "/images/profile.jpg"
