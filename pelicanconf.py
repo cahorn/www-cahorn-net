@@ -12,6 +12,11 @@ SITETITLE = "Ansel Horn"
 SITESUBTITLE = "Polymath Aspirant"
 SITELOGO = SITEURL + "/images/profile.jpg"
 
+MAIN_MENU = True
+MENUITEMS = (
+    ("Projects", SITEURL + "/category/projects.html"),
+)
+
 PATH = "content"
 
 TIMEZONE = "America/New_York"
