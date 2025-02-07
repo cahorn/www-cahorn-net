@@ -18,6 +18,10 @@ MENUITEMS = (
 )
 
 PATH = "content"
+STATIC_PATHS = [
+    "images",
+    "static",
+]
 
 TIMEZONE = "America/New_York"
 
@@ -30,12 +34,9 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
+# Links
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
+    ("Resume", SITEURL + "/static/resume.pdf"),
 )
 
 # Social widget
