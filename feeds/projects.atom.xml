@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ansel Horn - projects</title><link href="https://www.cahorn.net/" rel="alternate"></link><link href="https://www.cahorn.net/feeds/projects.atom.xml" rel="self"></link><id>https://www.cahorn.net/</id><updated>2025-03-02T08:45:26-05:00</updated><subtitle>Polymath Aspirant</subtitle><entry><title>Unknot Teaser</title><link href="https://www.cahorn.net/unknot-teaser.html" rel="alternate"></link><published>2025-03-02T08:45:26-05:00</published><updated>2025-03-02T08:45:26-05:00</updated><author><name>Ansel Horn</name></author><id>tag:www.cahorn.net,2025-03-02:/unknot-teaser.html</id><summary type="html">&lt;p&gt;A couple of years back, I made a proof-of-concept, search-based AI to solve
+ThinkFun's &lt;a href="https://a.co/d/3BjjgQH"&gt;Gordian's Knot&lt;/a&gt;, a disassembly puzzle that I
+particularly like. It included rudimentary support for OpenGL rendering and
+state-space visualization with &lt;a href="https://graphviz.org/"&gt;Graphviz&lt;/a&gt;. While an
+interesting novelty, I never put in the time to polish it for release …&lt;/p&gt;</summary><content type="html">&lt;p&gt;A couple of years back, I made a proof-of-concept, search-based AI to solve
+ThinkFun's &lt;a href="https://a.co/d/3BjjgQH"&gt;Gordian's Knot&lt;/a&gt;, a disassembly puzzle that I
+particularly like. It included rudimentary support for OpenGL rendering and
+state-space visualization with &lt;a href="https://graphviz.org/"&gt;Graphviz&lt;/a&gt;. While an
+interesting novelty, I never put in the time to polish it for release.&lt;/p&gt;
+&lt;p&gt;But it gave me an idea: what if we could explore not only the state-space of
+&lt;em&gt;this particular puzzle&lt;/em&gt;, but the state-space of &lt;em&gt;all&lt;/em&gt; rectilinear disassembly
+puzzles?&lt;/p&gt;
+&lt;p&gt;Hmm... 🤔&lt;/p&gt;</content><category term="projects"></category><category term="unknot"></category></entry></feed>
